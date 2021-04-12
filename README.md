@@ -4,3 +4,4 @@
 2.fibonacci
 3.trendy number
 4.armstrong number
+5.string based problems
