@@ -1,0 +1,18 @@
+from collections import OrderedDict
+a,b=input().split()
+d=OrderedDict()
+l2=[]
+for i in range(int(a)):
+    d[i]=input()
+for i in range(int(b)):
+    l2.append(input())
+print(d,l2)
+for i in l2:
+    count=0
+    for k,v in d.items():
+        if v==i:
+            print(k+1,end=" ")
+            count=1
+    if count==0:
+      print("-1")
+    print()
