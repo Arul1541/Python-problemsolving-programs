@@ -14,4 +14,6 @@
   For each 'm' words, check whether the word has appeared in group A or not.
   Print the indices of each occurrence of m in group A . If it does not appear, Print -1.
 11.matrix transpose
+12.find number of combinations of climbing the stair case
+13.
 
