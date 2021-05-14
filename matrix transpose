@@ -1,0 +1,20 @@
+a,b=map(int,input().split())
+l=[]
+l1 = [l.append(input().split()) for i in range(a)] 
+print(l)
+x=[[j[i] for j in l] for i in range(b)]
+print(x)
+for i in range(b):
+    print(x[i],end=" ")
+        
+        or
+a,b=map(int,input().split())
+l=[]
+for i in range(a):
+    c=input().split()
+    l.append(c)
+print(l)
+for i in range(b):
+    for j in l:
+        print(j[i],end=" ")
+    print()
