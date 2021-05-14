@@ -13,5 +13,5 @@
 10.Consider the integers 'n' and 'm'. There are 'n' words, which might repeat, belongs to group A . There are 'm' words belongs to group B .
   For each 'm' words, check whether the word has appeared in group A or not.
   Print the indices of each occurrence of m in group A . If it does not appear, Print -1.
-
+11.matrix transpose
 
