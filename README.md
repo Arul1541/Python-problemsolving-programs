@@ -15,5 +15,5 @@
   Print the indices of each occurrence of m in group A . If it does not appear, Print -1.
 11.matrix transpose
 12.find number of combinations of climbing the stair case
-13.
+13.rearrange the array in the zigzag combination that follows the condition: a<b>c<d>e<f>g
 
